@@ -1,6 +1,6 @@
 ## Setting up a Django Project
 
-Do you love Django? I love Django too 🍻. I love it for reasons well documented on [Django's Documentation](https://www.djangoproject.com/start/overview/) and of course the documentation itself. Let's conclude its a loop. Django tag line is - 'The web framework for perfectionists with deadlines' in a couple of minutes, you will get to see it is not just Django bluffing. We will go through setting up a Django project and in a series of more blogs deploy our app to production 🚀. If you are excited as I let's dive in.
+Do you love Django? I love Django too 🍻. I love it for reasons well documented on [Django's Documentation](https://www.djangoproject.com/start/overview/) and of course the documentation itself. Let's conclude its a loop. Django tag line is - 'The web framework for perfectionists with deadlines' in a couple of minutes, you will get to see it is not just Django bluffing. We will go through setting up a Django project and in a series of more blogs deploy our app to production 🚀. If you are excited as I am let's dive in.
 
 Assumptions made:
 1. You have python installed in your system.
