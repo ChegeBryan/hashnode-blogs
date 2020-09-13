@@ -1,6 +1,7 @@
 ## Creating a Django app
 
 In this article, we are going to create a Django app for the project we just configured on the previous article. A project can have multiple apps. Apps inside a project are standalone. That means an app can be plugged into another Django project and work as expected.
+
 Assumptions made:
 1. You have set up the project as guided here: [Setting up a Django project](https://chegebryan.hashnode.dev/setting-up-a-django-project). ✅
 2. You are excited. 😎
